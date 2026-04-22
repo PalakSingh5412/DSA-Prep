@@ -18,3 +18,6 @@ Starting my DSA journey with consistency.
 
 ## Goal
 Build strong problem-solving skills and consistency.
+
+
+- Day 4: Pascal Triangle II, Remove Duplicates, Best Time to Buy and Sell Stock

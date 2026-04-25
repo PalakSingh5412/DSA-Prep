@@ -11,6 +11,7 @@ Starting my DSA journey with consistency.
 - Day 4: Pascal Triangle II, Remove Duplicates, Best Time to Buy and Sell Stock
 - Day 5: Vowel-Consonant Score, Reverse String, Find Words Containing Character, Toggle Light Bulbs
 - Day 6: Move Zeroes, Valid Palindrome, Merge Sorted Array (Two Pointers)
+- Day 7: 5 Hashing Problems (Anagram, Ransom Note, Contains Duplicate, Intersection, Group Anagrams)
 
 ## Concepts Covered
 - Arrays

@@ -13,13 +13,34 @@ Starting my DSA journey with consistency.
 - Day 6: Move Zeroes, Valid Palindrome, Merge Sorted Array (Two Pointers)
 - Day 7: 5 Hashing Problems (Anagram, Ransom Note, Contains Duplicate, Intersection, Group Anagrams)
 - Day 8: Sliding Window (Max Average Subarray, Longest Substring Without Repeating, Min Subarray Sum)
+- Day 9: Bubble Sort, Linear Search, Binary Search
 
 ## Concepts Covered
-- Arrays
-- Loops
-- Nested loops
-- Two pointers
-- Greedy approach
+- Arrays: Traversal, basic operations, optimization
+- Nested Loops: Pattern building, iteration control
+- Pascal Triangle: Combinatorics, dynamic building
+- Greedy Approach: Best Time to Buy and Sell Stock
+- Strings: Traversal, character handling
+- Two Pointers: In-place operations, left-right traversal
+- Hashing:
+  - Frequency arrays
+  - HashSet (uniqueness)
+  - HashMap (key-value storage)
+- Sliding Window:
+  - Fixed window (subarray problems)
+  - Variable window (substring problems)
+- Sorting:
+  - Bubble Sort (basic understanding)
+- Searching:
+  - Linear Search (basic)
+  - Binary Search (efficient searching, divide & conquer)
+ 
+  ## 📈 Patterns Covered
+
+- Two Pointers
+- Hashing
+- Sliding Window
+- Binary Search
 
 ## Goal
 Build strong problem-solving skills and consistency.

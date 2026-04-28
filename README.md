@@ -14,6 +14,7 @@ Starting my DSA journey with consistency.
 - Day 7: 5 Hashing Problems (Anagram, Ransom Note, Contains Duplicate, Intersection, Group Anagrams)
 - Day 8: Sliding Window (Max Average Subarray, Longest Substring Without Repeating, Min Subarray Sum)
 - Day 9: Bubble Sort, Linear Search, Binary Search
+- Day 10: Advanced binary search (bounds, peak, 2D, Koko, shipping)
 
 ## Concepts Covered
 - Arrays: Traversal, basic operations, optimization
